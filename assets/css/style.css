@@ -6,3 +6,46 @@ Author: Example
 License: Example License 
 License URI: https://example.com/license/
 */
+
+/*-- Min Width Media Queries --*/
+@media (min-width: 576px) { 
+
+}
+
+@media (min-width: 768px) { 
+    
+}
+
+@media (min-width: 992px) { 
+    
+}
+
+@media (min-width: 1200px) { 
+    
+}
+
+@media (min-width: 1400px) {
+
+}
+
+/*-- Max Width Media Queries --*/
+@media (max-width: 575.98px) { 
+    
+}
+
+@media (max-width: 767.98px) { 
+    
+}
+
+@media (max-width: 991.98px) { 
+    
+}
+
+@media (max-width: 1199.98px) { 
+    
+}
+
+@media (max-width: 1399.98px) { 
+    
+}
+
